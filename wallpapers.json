@@ -1,7 +1,7 @@
 {
     "Awaken": {
         "author": "Hugwalk",
-        "featured": "awaken_plasma_1",
+        "featured": "awaken_aero_1",
         "wallpapers": {
             "Kepler": {
                 "1": ""
@@ -28,6 +28,9 @@
                 "1": ""
             },
             "Plasma": {
+                "1": ""
+            },
+            "Aero": {
                 "1": ""
             }
         }
