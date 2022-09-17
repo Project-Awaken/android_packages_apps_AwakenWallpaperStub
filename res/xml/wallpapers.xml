@@ -16,7 +16,7 @@
 -->
 <wallpapers>
 
-    <category id="awaken" title="@string/category_awaken" featured="awaken_stellar_1">
+    <category id="awaken" title="@string/category_awaken" featured="awaken_triton_1">
 
         <static-wallpaper
             id="awaken_kepler_1"
@@ -82,6 +82,12 @@
             id="awaken_stellar_1"
             src="@drawable/awaken_stellar_1"
             title="@string/wallpaper_awaken_stellar_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_triton_1"
+            src="@drawable/awaken_triton_1"
+            title="@string/wallpaper_awaken_triton_1"
             subtitle1="@string/author_hugwalk" />
 
     </category>

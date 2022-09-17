@@ -1,7 +1,7 @@
 {
     "Awaken": {
         "author": "Hugwalk",
-        "featured": "awaken_stellar_1",
+        "featured": "awaken_triton_1",
         "wallpapers": {
             "Kepler": {
                 "1": ""
@@ -34,6 +34,9 @@
                 "1": ""
             },
             "Stellar": {
+                "1": ""
+            },
+            "Triton": {
                 "1": ""
             }
         }
