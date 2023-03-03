@@ -16,54 +16,72 @@
 -->
 <wallpapers>
 
-    <category id="awaken" title="@string/category_awaken" featured="awaken_triton_1">
+    <category id="awaken" title="@string/category_awaken" featured="awaken_void_dark_magenta_1">
 
         <static-wallpaper
-            id="awaken_kepler_1"
-            src="@drawable/awaken_kepler_1"
-            title="@string/wallpaper_awaken_kepler_1"
+            id="awaken_void_dark_magenta_1"
+            src="@drawable/awaken_void_dark_magenta_1"
+            title="@string/wallpaper_awaken_void_dark_magenta_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_luna_1"
-            src="@drawable/awaken_luna_1"
-            title="@string/wallpaper_awaken_luna_1"
+            id="awaken_void_dark_coal_1"
+            src="@drawable/awaken_void_dark_coal_1"
+            title="@string/wallpaper_awaken_void_dark_coal_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_ares_1"
-            src="@drawable/awaken_ares_1"
-            title="@string/wallpaper_awaken_ares_1"
+            id="awaken_void_dark_sage_1"
+            src="@drawable/awaken_void_dark_sage_1"
+            title="@string/wallpaper_awaken_void_dark_sage_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_nebula_1"
-            src="@drawable/awaken_nebula_1"
-            title="@string/wallpaper_awaken_nebula_1"
+            id="awaken_void_dark_tangerine_1"
+            src="@drawable/awaken_void_dark_tangerine_1"
+            title="@string/wallpaper_awaken_void_dark_tangerine_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_aurora_1"
-            src="@drawable/awaken_aurora_1"
-            title="@string/wallpaper_awaken_aurora_1"
+            id="awaken_void_light_magenta_1"
+            src="@drawable/awaken_void_light_magenta_1"
+            title="@string/wallpaper_awaken_void_light_magenta_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_gaia_1"
-            src="@drawable/awaken_gaia_1"
-            title="@string/wallpaper_awaken_gaia_1"
+            id="awaken_void_light_coal_1"
+            src="@drawable/awaken_void_light_coal_1"
+            title="@string/wallpaper_awaken_void_light_coal_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_eclipse_1"
-            src="@drawable/awaken_eclipse_1"
-            title="@string/wallpaper_awaken_eclipse_1"
+            id="awaken_void_light_sage_1"
+            src="@drawable/awaken_void_light_sage_1"
+            title="@string/wallpaper_awaken_void_light_sage_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_glacier_1"
-            src="@drawable/awaken_glacier_1"
-            title="@string/wallpaper_awaken_glacier_1"
+            id="awaken_void_light_tangerine_1"
+            src="@drawable/awaken_void_light_tangerine_1"
+            title="@string/wallpaper_awaken_void_light_tangerine_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_triton_1"
+            src="@drawable/awaken_triton_1"
+            title="@string/wallpaper_awaken_triton_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_stellar_1"
+            src="@drawable/awaken_stellar_1"
+            title="@string/wallpaper_awaken_stellar_1"
+            subtitle1="@string/author_hugwalk" />
+			
+        <static-wallpaper
+            id="awaken_aero_1"
+            src="@drawable/awaken_aero_1"
+            title="@string/wallpaper_awaken_aero_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
@@ -73,21 +91,51 @@
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_aero_1"
-            src="@drawable/awaken_aero_1"
-            title="@string/wallpaper_awaken_aero_1"
+            id="awaken_glacier_1"
+            src="@drawable/awaken_glacier_1"
+            title="@string/wallpaper_awaken_glacier_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_stellar_1"
-            src="@drawable/awaken_stellar_1"
-            title="@string/wallpaper_awaken_stellar_1"
+            id="awaken_eclipse_1"
+            src="@drawable/awaken_eclipse_1"
+            title="@string/wallpaper_awaken_eclipse_1"
             subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
-            id="awaken_triton_1"
-            src="@drawable/awaken_triton_1"
-            title="@string/wallpaper_awaken_triton_1"
+            id="awaken_gaia_1"
+            src="@drawable/awaken_gaia_1"
+            title="@string/wallpaper_awaken_gaia_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_aurora_1"
+            src="@drawable/awaken_aurora_1"
+            title="@string/wallpaper_awaken_aurora_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_nebula_1"
+            src="@drawable/awaken_nebula_1"
+            title="@string/wallpaper_awaken_nebula_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_ares_1"
+            src="@drawable/awaken_ares_1"
+            title="@string/wallpaper_awaken_ares_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_luna_1"
+            src="@drawable/awaken_luna_1"
+            title="@string/wallpaper_awaken_luna_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_kepler_1"
+            src="@drawable/awaken_kepler_1"
+            title="@string/wallpaper_awaken_kepler_1"
             subtitle1="@string/author_hugwalk" />
 
     </category>

@@ -29,4 +29,12 @@
     <string name="wallpaper_awaken_aero_1">Aero</string>
     <string name="wallpaper_awaken_stellar_1">Stellar</string>
     <string name="wallpaper_awaken_triton_1">Triton</string>
+    <string name="wallpaper_awaken_void_dark_coal_1">Void Dark Coal</string>
+    <string name="wallpaper_awaken_void_dark_magenta_1">Void Dark Magenta</string>
+    <string name="wallpaper_awaken_void_dark_sage_1">Void Dark Sage</string>
+    <string name="wallpaper_awaken_void_dark_tangerine_1">Void Dark Tangerine</string>
+    <string name="wallpaper_awaken_void_light_coal_1">Void Light Coal</string>
+    <string name="wallpaper_awaken_void_light_magenta_1">Void Light Magenta</string>
+    <string name="wallpaper_awaken_void_light_sage_1">Void Light Sage</string>
+    <string name="wallpaper_awaken_void_light_tangerine_1">Void Light Tangerine</string>
 </resources>
