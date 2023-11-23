@@ -16,7 +16,19 @@
 -->
 <wallpapers>
 
-    <category id="awaken" title="@string/category_awaken" featured="awaken_void_dark_magenta_1">
+    <category id="awaken" title="@string/category_awaken" featured="awaken_ursa_dark_1">
+
+        <static-wallpaper
+            id="awaken_ursa_dark_1"
+            src="@drawable/awaken_ursa_dark_1"
+            title="@string/wallpaper_awaken_ursa_dark_1"
+            subtitle1="@string/author_hugwalk" />
+
+        <static-wallpaper
+            id="awaken_ursa_light_1"
+            src="@drawable/awaken_ursa_light_1"
+            title="@string/wallpaper_awaken_ursa_light_1"
+            subtitle1="@string/author_hugwalk" />
 
         <static-wallpaper
             id="awaken_void_dark_magenta_1"

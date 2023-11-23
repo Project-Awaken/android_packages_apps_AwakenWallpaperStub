@@ -1,7 +1,7 @@
 {
     "Awaken": {
         "author": "Hugwalk",
-        "featured": "awaken_triton_1",
+        "featured": "awaken_ursa_dark_1",
         "wallpapers": {
             "Kepler": {
                 "1": ""
@@ -61,6 +61,12 @@
                 "1": ""
             },
             "Void Light Tangerine": {
+                "1": ""
+            },
+            "Ursa Dark": {
+                "1": ""
+            },
+            "Ursa Light": {
                 "1": ""
             }
         }
